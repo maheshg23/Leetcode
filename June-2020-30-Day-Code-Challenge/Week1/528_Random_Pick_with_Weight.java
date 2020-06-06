@@ -12,16 +12,18 @@ class Solution {
     public int pickIndex() {
         int res = 0;
         int rand = (int) (Math.random() * total);
-        res = binarySearch(rand);
+        res = binarySearch(rand + 1);
         return res;
     }
 
     public int binarySearch(int val) {
-        int l = 0, r = list.size();
+        int l = 0, r = list.size() - 1;
         int mid = 0;
         while (l < r) {
             mid = l + (r - l) / 2;
-            if (list.get(mid) <= val)
+            if (list.get(mid) == val)
+                return mid;
+            else if (list.get(mid) < val)
                 l = mid + 1;
             else
                 r = mid;
