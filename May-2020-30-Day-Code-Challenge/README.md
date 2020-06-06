@@ -20,7 +20,7 @@ Contains my solutions to May-2020 30 Days Code Challenge May-2020 on Leetcode.
 - [11-Flood Fill](Week2/773_Flood_Fill.java)
 - [12-Single Element in a Sorted Array](Week2/540_Single_Element_Sorted_Array.java)
 - [13-Remove K Digits](Week2/402_Remove_K_Digits.java)
-- [14-Implement Trie (Prefix Tree)](<Week2/208_Implement_Trie_(Prefix_Tree).java>)
+- [14-Implement Trie (Prefix Tree)](208_Implement_Trie_Prefix_Tree.java)
 
 ### Week-3
 
