@@ -15,7 +15,7 @@ Contains my solutions to June-2020 30 Days Code Challenge June-2020 on Leetcode.
 ### Week-2
 
 - [8-Power Of Two](Week2/231_Power_Of_Two.java)
-- [9-](Week2/)
+- [9-Is Subsequence](Week2/392_IsSubsequence.java)
 - [10-](Week2/)
 - [11-](Week2/)
 - [12-](Week2/)
