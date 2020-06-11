@@ -8,7 +8,7 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 - [2-Happy Number](Week1/202_Happy_Number.java)
 - [3-Maximum SubArray](Week1/53_Maximum_Subarray.java)
 - [4-Move Zeroes](Week1/283_Move_Zeros.java)
-- [5-Best Time to Buy and Sell Stock II](Week1/)
+- [5-Best Time to Buy and Sell Stock II](Week1/122_Best_Time_to_Buy_and_Sell_Stock_II.java)
 - [6-Group Anagrams](Week1/49_Group_Anagrams.java)
 - [7-Counting Elements](Week1/)
 
