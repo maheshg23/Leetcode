@@ -14,9 +14,9 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 
 ### Week-2
 
-- [8-Middle of the Linked List](Week2/)
-- [9-Backspace String Compare](Week2/)
-- [10-Min Stack](Week2/)
+- [8-Middle of the Linked List](Week2/876_Middle_of_the_Linked_List.java)
+- [9-Backspace String Compare](Week2/844_Backspace_String_Compare.java)
+- [10-Min Stack](Week2/155_Min_Stack.java)
 - [11-Diameter of Binary Tree](Week2/)
 - [12-Last Stone Weight](Week2/)
 - [13-Contiguous Array](Week2/)
