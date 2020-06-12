@@ -46,4 +46,4 @@ Contains my solutions to May-2020 30 Days Code Challenge May-2020 on Leetcode.
 
 - [29-Course Schedule](Week5/207_Course_Schedule.java)
 - [30-K Closest Points to Origin](Week5/973_K_Closest_Points_to_Origin.java)
-- [31-Edit Distance](Week5/72_Edit_Distance.java)
+- [31-Edit Distance](Week5/072_Edit_Distance.java)
