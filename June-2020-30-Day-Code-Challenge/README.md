@@ -18,7 +18,7 @@ Contains my solutions to June-2020 30 Days Code Challenge June-2020 on Leetcode.
 - [9-Is Subsequence](Week2/392_IsSubsequence.java)
 - [10-Search Insert Position](Week2/35_Search_Insert_Position.java)
 - [11-Sort Color](Week2/75_Sort_Color.java)
-- [12-](Week2/)
+- [12-Insert Delete GetRandom O(1)](Week2/380_Insert_Delete_GetRandom_O1.java)
 - [13-](Week2/)
 - [14-](Week2/)
 
