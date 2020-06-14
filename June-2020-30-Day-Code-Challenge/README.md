@@ -16,10 +16,10 @@ Contains my solutions to June-2020 30 Days Code Challenge June-2020 on Leetcode.
 
 - [8-Power Of Two](Week2/231_Power_Of_Two.java)
 - [9-Is Subsequence](Week2/392_IsSubsequence.java)
-- [10-Search Insert Position](Week2/35_Search_Insert_Position.java)
-- [11-Sort Color](Week2/75_Sort_Color.java)
+- [10-Search Insert Position](Week2/035_Search_Insert_Position.java)
+- [11-Sort Color](Week2/075_Sort_Color.java)
 - [12-Insert Delete GetRandom O(1)](Week2/380_Insert_Delete_GetRandom_O1.java)
-- [13-](Week2/)
+- [13-Largest Divisible Subset](Week2/368_Largest_Divisible_Subset.java)
 - [14-](Week2/)
 
 ### Week-3
