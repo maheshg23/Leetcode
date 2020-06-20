@@ -26,8 +26,8 @@ Contains my solutions to June-2020 30 Days Code Challenge June-2020 on Leetcode.
 
 - [15-Search in a Binary Search Tree](Week3/700_Search_in_a_Binary_Search_Tree.java)
 - [16-Validate IP Address](Week3/468_Validate_IP_Address.java)
-- [17-](Week3/)
-- [18-](Week3/)
+- [17-Surrounded Regions](Week3/130_Surrounded_Regions.java)
+- [18-H-Index II](Week3/275_H_Index_II.java)
 - [19-](Week3/)
 - [20-](Week3/)
 - [21-](Week3/)
