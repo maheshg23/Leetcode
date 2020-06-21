@@ -28,8 +28,8 @@ Contains my solutions to June-2020 30 Days Code Challenge June-2020 on Leetcode.
 - [16-Validate IP Address](Week3/468_Validate_IP_Address.java)
 - [17-Surrounded Regions](Week3/130_Surrounded_Regions.java)
 - [18-H-Index II](Week3/275_H_Index_II.java)
-- [19-](Week3/)
-- [20-](Week3/)
+- [19-Longest Duplicate Substring](Week3/1044_Longest_Duplicate_Substring.java.java)
+- [20-Permutation Sequence](Week3/060_Permutation_Sequence.java)
 - [21-](Week3/)
 
 ### Week-4
