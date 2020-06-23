@@ -30,11 +30,11 @@ Contains my solutions to June-2020 30 Days Code Challenge June-2020 on Leetcode.
 - [18-H-Index II](Week3/275_H_Index_II.java)
 - [19-Longest Duplicate Substring](Week3/1044_Longest_Duplicate_Substring.java.java)
 - [20-Permutation Sequence](Week3/060_Permutation_Sequence.java)
-- [21-](Week3/)
+- [21-Dungeon Game](Week3/174_Dungeon_Game.java)
 
 ### Week-4
 
-- [22-](Week4/)
+- [22-137. Single Number II](Week4/137_Single_Number_II.java)
 - [23-](Week4/)
 - [24-](Week4/)
 - [25-](Week4/)
