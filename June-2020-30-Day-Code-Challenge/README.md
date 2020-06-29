@@ -36,11 +36,11 @@ Contains my solutions to June-2020 30 Days Code Challenge June-2020 on Leetcode.
 
 - [22-Single Number II](Week4/137_Single_Number_II.java)
 - [23-Count Complete Tree Nodes](Week4/222_Count_Complete_Tree_Nodes.java)
-- [24-](Week4/)
-- [25-](Week4/)
-- [26-](Week4/)
-- [27-](Week4/)
-- [28-](Week4/)
+- [24-Unique Binary Search Trees](Week4/96_Unique_Binary_Search_Trees.java)
+- [25-Find the Duplicate Number](Week4/287_Find_the_Duplicate_Number.java)
+- [26-Sum Root to Leaf Numbers](Week4/129_Sum_Root_to_Leaf_Numbers.java)
+- [27-Perfect Squares](Week4/279_Perfect_Squares.java)
+- [28-Reconstruct Itinerary](Week4/332_Reconstruct_Itinerary.java)
 
 ### Week-5
 
