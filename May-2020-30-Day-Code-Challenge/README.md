@@ -4,13 +4,13 @@ Contains my solutions to May-2020 30 Days Code Challenge May-2020 on Leetcode.
 
 ### Week-1
 
-- [1-First Bad Version](Week1/278_First_Bad_Version.java)
-- [2-Jewels and Stones](Week1/771_Jewels_and_Stones.java)
-- [3-Ransom Note](Week1/383_Ransom_Note.java)
-- [4-Number Complement](Week1/476_Number_Complement.java)
-- [5-First Unique Character in a String](Week1/387_First_Unique_Character_String.java)
-- [6-Majority Element](Week1/169_Majority_Element.java)
-- [7-Cousins in Binary Tree](Week1/993_Cousins_in_Binary_Tree.java)
+- [1-First Bad Version](../Problems/278_First_Bad_Version.java)
+- [2-Jewels and Stones](../Problems/771_Jewels_and_Stones.java)
+- [3-Ransom Note](../Problems/383_Ransom_Note.java)
+- [4-Number Complement](../Problems/476_Number_Complement.java)
+- [5-First Unique Character in a String](../Problems/387_First_Unique_Character_String.java)
+- [6-Majority Element](../Problems/169_Majority_Element.java)
+- [7-Cousins in Binary Tree](../Problems/993_Cousins_in_Binary_Tree.java)
 
 ### Week-2
 
