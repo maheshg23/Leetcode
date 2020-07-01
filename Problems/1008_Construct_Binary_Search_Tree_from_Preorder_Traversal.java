@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/
-// No. 1008 https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+// 1008. Construct Binary Search Tree from Preorder Traversal
 
 /**
  * Definition for a binary tree node.

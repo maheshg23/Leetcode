@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/
-// No. 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/ 
+// 230. Kth Smallest Element in a BST
 
 /*
  * Definition for a binary tree node.
@@ -50,11 +50,9 @@ class Solution {
         if(count == k){
             return node;
         }
-        
         if(count > k)
             return inOrder(node.left, k);
-        
+
         return inOrder(node.right, k - count);
     }
-    
 }

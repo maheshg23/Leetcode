@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/
-// No. 1035 https://leetcode.com/problems/uncrossed-lines/
+// 1035. Uncrossed Lines
 
 class Solution {
     public int maxUncrossedLines(int[] A, int[] B) {

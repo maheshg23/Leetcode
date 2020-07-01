@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/
-// No. 328 https://leetcode.com/problems/odd-even-linked-list/
+// 328. Odd Even Linked List
 
 /**
  * Definition for singly-linked list.
@@ -15,7 +15,6 @@ class Solution {
     public ListNode oddEvenList(ListNode head) {
         if(head == null) return null;
         ListNode odd = head, even = head.next, evenhead = even;
-        
         while(even != null && even.next != null){
             odd.next = even.next;
             odd = odd.next;

@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/
-// No. 918 https://leetcode.com/problems/maximum-sum-circular-subarray/
+// 918. Maximum Sum Circular Subarray
 
 class Solution {
     public int maxSubarraySumCircular(int[] A) {
@@ -40,7 +40,7 @@ class Solution {
     }
 }
 
-// Using DP methof of Max Subarray and
+// Using DP method of Max Subarray
 class Solution {
     public int maxSubarraySumCircular(int[] A) {
 
