@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/
-// 876 https://leetcode.com/problems/middle-of-the-linked-list/
+// 876. Middle of the Linked List
 
 /**
  * Definition for singly-linked list.
@@ -30,7 +30,7 @@ class Solution {
     }
 }
 
-// Slow fast Pointer
+// Slow fast pointer
 class Solution {
     public ListNode middleNode(ListNode head) {
 

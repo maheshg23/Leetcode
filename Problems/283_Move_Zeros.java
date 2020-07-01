@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/
-// 283 https://leetcode.com/problems/move-zeroes/
+// 283. Move Zeroes
 
 class Solution {
     public void moveZeroes(int[] nums) {

@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3285/
-// 53 https://leetcode.com/problems/maximum-subarray/
+// 53. Maximum Subarray
 
 //Brute Force
 class Solution {

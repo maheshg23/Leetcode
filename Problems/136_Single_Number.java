@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
-// 136 https://leetcode.com/problems/single-number/
+// 136. Single Number
 
 class Solution {
   public int singleNumber(int[] nums) {

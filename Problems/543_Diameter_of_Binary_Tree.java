@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3293/
-// 543 https://leetcode.com/problems/diameter-of-binary-tree/
+// 543. Diameter of Binary Tree
 
 /**
  * Definition for a binary tree node.

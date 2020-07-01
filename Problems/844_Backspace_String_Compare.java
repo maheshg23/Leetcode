@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/
-// 844 https://leetcode.com/problems/backspace-string-compare/
+// 844. Backspace String Compare
 
 // Recursive Logic
 class Solution {
