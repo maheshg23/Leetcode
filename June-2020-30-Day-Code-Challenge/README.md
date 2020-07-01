@@ -44,6 +44,5 @@ Contains my solutions to June-2020 30 Days Code Challenge June-2020 on Leetcode.
 
 ### Week-5
 
-- [29-](Week5/)
-- [20-](Week5/)
-- [31-](Week5/)
+- [29-Unique Paths](Week5/062_Unique_Paths.java)
+- [30-Word Search II](Week5/212_Word_Search_II.java)
