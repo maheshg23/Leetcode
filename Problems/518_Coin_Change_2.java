@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3353/
-// 518 https://leetcode.com/problems/coin-change-2/
+// 518. Coin Change 2
 
 class Solution {
     public int change(int amount, int[] coins) {

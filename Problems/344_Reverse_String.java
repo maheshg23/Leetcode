@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/
-// 344 https://leetcode.com/problems/reverse-string/
+// 344. Reverse String
 
 class Solution {
     public void reverseString(char[] s) {

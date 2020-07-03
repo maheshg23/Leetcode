@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/
-// 231 https://leetcode.com/problems/power-of-two/
+// 231. Power of Two
 
 class Solution {
     public boolean isPowerOfTwo(int n) {

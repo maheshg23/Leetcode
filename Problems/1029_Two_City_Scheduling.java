@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/
-// 1029 https://leetcode.com/problems/two-city-scheduling/
+// 1029. Two City Scheduling
 
 class Solution {
     public int twoCitySchedCost(int[][] costs) {

@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/
-// 226 https://leetcode.com/problems/invert-binary-tree/
+// 226. Invert Binary Tree
 
 /**
  * Definition for a binary tree node.
@@ -20,7 +20,6 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
         helper(root);
-
         return root;
     }
 
@@ -36,6 +35,5 @@ class Solution {
 
         helper(root.left);
         helper(root.right);
-
     }
 }

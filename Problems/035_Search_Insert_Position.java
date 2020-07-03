@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/
-// 35 https://leetcode.com/problems/search-insert-position/
+// 35. Search Insert Position
 
 class Solution {
     public int searchInsert(int[] nums, int target) {

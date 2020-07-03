@@ -1,3 +1,6 @@
+// https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3351/
+// 528. Random Pick with Weight
+
 class Solution {
     private List<Integer> list = new ArrayList<Integer>();
     private int total = 0;
@@ -33,6 +36,8 @@ class Solution {
 }
 
 /**
- * Your Solution object will be instantiated and called as such: Solution obj =
- * new Solution(w); int param_1 = obj.pickIndex();
+ * Your Solution object will be instantiated and called as such: 
+ * Solution obj =
+ * new Solution(w); 
+ * int param_1 = obj.pickIndex();
  */

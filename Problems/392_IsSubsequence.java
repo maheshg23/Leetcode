@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/
-// 392 https://leetcode.com/problems/is-subsequence/
+// 392. Is Subsequence
 
 class Solution {
     public boolean isSubsequence(String s, String t) {
