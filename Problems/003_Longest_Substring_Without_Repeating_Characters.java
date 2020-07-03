@@ -12,7 +12,7 @@ class Solution {
                     max = curr;
                 // System.out.println("char " + s.charAt(i) + " i " + i);
             } else {
-                // System.out.println("Else char " + s.charAt(i) + " i-" + i);
+                // System.out.println("Else char " + s.charAt(i) + " i " + i);
                 int index = pos[s.charAt(i)] - 1;
                 while (j <= index) {
                     pos[s.charAt(j)] = 0;
