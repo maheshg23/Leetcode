@@ -27,9 +27,9 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 - [15-Product of Array Except Self](../Problems/238_Product_of_Array_Except_Self.java)
 - [16-Valid Parenthesis String](../Problems/678_Valid_Parenthesis_String.java)
 - [17-Number of Islands](../Problems/200_Number_of_Islands.java)
-- [18-Minimum Path Sum](../Problems/)
+- [18-Minimum Path Sum](../Problems/064_Minimum_Path_Sum.java)
 - [19-Search in Rotated Sorted Array](../Problems/)
-- [20-Construct Binary Search Tree from Preorder Traversal](../Problems/)
+- [20-Construct Binary Search Tree from Preorder Traversal](../Problems/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.java)
 - [21-Leftmost Column with atleast a One](../Problems/)
 
 ### Week-4
