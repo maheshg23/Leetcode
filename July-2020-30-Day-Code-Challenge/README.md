@@ -9,8 +9,8 @@ Contains my solutions to July-2020 30 Days Code Challenge July-2020 on Leetcode.
 - [3-Prison Cells After N Days](../Problems/957_Prison_Cells_After_N_Days.java)
 - [4-Ugly Number II](../Problems/264_Ugly_Number_II.java)
 - [5-Hamming Distance](../Problems/461_Hamming_Distance.java)
-- [6-](../Problems/)
-- [7-](../Problems/)
+- [6-Plus One](../Problems/066_Plus_One.java)
+- [7-Island Perimeter](../Problems/463_Island_Perimeter.java)
 
 ### Week-2
 
