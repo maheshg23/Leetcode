@@ -28,13 +28,13 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 - [16-Valid Parenthesis String](../Problems/678_Valid_Parenthesis_String.java)
 - [17-Number of Islands](../Problems/200_Number_of_Islands.java)
 - [18-Minimum Path Sum](../Problems/064_Minimum_Path_Sum.java)
-- [19-Search in Rotated Sorted Array](../Problems/)
+- [19-Search in Rotated Sorted Array](../Problems/033_Search_in_Rotated_Sorted_Array.java)
 - [20-Construct Binary Search Tree from Preorder Traversal](../Problems/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.java)
 - [21-Leftmost Column with atleast a One](../Problems/)
 
 ### Week-4
 
-- [22-Subarray Sum Equals K](../Problems/)
+- [22-Subarray Sum Equals K](../Problems/560_Subarray_Sum_Equals_K.java)
 - [23-Bitwise AND of Numbers Range](../Problems/)
 - [24-LRU Cache](../Problems/)
 - [25-Jump Game](../Problems/)
