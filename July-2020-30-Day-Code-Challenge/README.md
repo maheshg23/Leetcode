@@ -14,27 +14,27 @@ Contains my solutions to July-2020 30 Days Code Challenge July-2020 on Leetcode.
 
 ### Week-2
 
-- [8-](../Problems/)
-- [9-](../Problems/)
-- [10-](../Problems/)
-- [11-](../Problems/)
-- [12-](../Problems/)
-- [13-](../Problems/)
-- [14-](../Problems/)
+- [8-3Sum](../Problems/015_3Sum.java)
+- [9-Maximum Width of Binary Tree](../Problems/662_Maximum_Width_of_Binary_Tree.java)
+- [10-Flatten a Multilevel Doubly Linked List](../Problems/430_Flatten_a_Multilevel_Doubly_Linked_List.java)
+- [11-Subsets](../Problems/078_Subsets.java)
+- [12-Reverse Bits](../Problems/190_Reverse_Bits.java)
+- [13-Same Tree](../Problems/100_Same_Tree.java)
+- [14-Angle Between Hands of a Clock](../Problems/1344_Angle_Between_Hands_of_a_Clock.java)
 
 ### Week-3
 
-- [15-](../Problems/)
-- [16-](../Problems/)
-- [17-](../Problems/)
+- [15-Reverse Words in a String](../Problems/151_Reverse_Words_in_a_String.java)
+- [16-Pow(x, n)](../Problems/050_Pow(x,n).java)
+- [17-Top K Frequent Elements](../Problems/347_Top_K_Frequent_Elements.java)
 - [18-](../Problems/)
-- [19-](../Problems/)
-- [20-](../Problems/)
-- [21-](../Problems/)
+- [19-Add Binary](../Problems/067_Add_Binary.java)
+- [20-Remove Linked List Elements](../Problems/203_Remove_Linked_List_Elements.java)
+- [21-Word Search](../Problems/079_Word_Search.java)
 
 ### Week-4
 
-- [22-](../Problems/)
+- [22-Binary Tree Zigzag Level Order Traversal](../Problems/103_Binary_Tree_Zigzag_Level_Order_Traversal.java)
 - [23-](../Problems/)
 - [24-](../Problems/)
 - [25-](../Problems/)
