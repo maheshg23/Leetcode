@@ -35,10 +35,10 @@ Contains my solutions to July-2020 30 Days Code Challenge July-2020 on Leetcode.
 ### Week-4
 
 - [22-Binary Tree Zigzag Level Order Traversal](../Problems/103_Binary_Tree_Zigzag_Level_Order_Traversal.java)
-- [23-](../Problems/)
-- [24-](../Problems/)
-- [25-](../Problems/)
-- [26-](../Problems/)
+- [23-Single_Number_III](../Problems/260_Single_Number_III.java)
+- [24-All Paths From Source to Target](../Problems/797_All_Paths_From_Source_to_Target.java)
+- [25-Find Minimum in Rotated Sorted Array II](../Problems/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)
+- [26-Add Digits](../Problems/258_Add_Digits.java)
 - [27-](../Problems/)
 - [28-](../Problems/)
 
