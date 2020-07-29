@@ -27,7 +27,7 @@ Contains my solutions to July-2020 30 Days Code Challenge July-2020 on Leetcode.
 - [15-Reverse Words in a String](../Problems/151_Reverse_Words_in_a_String.java)
 - [16-Pow(x, n)](../Problems/050_Pow(x,n).java)
 - [17-Top K Frequent Elements](../Problems/347_Top_K_Frequent_Elements.java)
-- [18-](../Problems/)
+- [18-Course Schedule II ](../Problems/210_Course_Schedule_II.java)
 - [19-Add Binary](../Problems/067_Add_Binary.java)
 - [20-Remove Linked List Elements](../Problems/203_Remove_Linked_List_Elements.java)
 - [21-Word Search](../Problems/079_Word_Search.java)
@@ -39,8 +39,8 @@ Contains my solutions to July-2020 30 Days Code Challenge July-2020 on Leetcode.
 - [24-All Paths From Source to Target](../Problems/797_All_Paths_From_Source_to_Target.java)
 - [25-Find Minimum in Rotated Sorted Array II](../Problems/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)
 - [26-Add Digits](../Problems/258_Add_Digits.java)
-- [27-](../Problems/)
-- [28-](../Problems/)
+- [27-Construct Binary Tree from Inorder and Postorder Traversal](../Problems/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java)
+- [28-Task Scheduler](../Problems/621_Task_Scheduler.java)
 
 ### Week-5
 
