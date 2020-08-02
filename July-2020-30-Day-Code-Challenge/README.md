@@ -44,6 +44,6 @@ Contains my solutions to July-2020 30 Days Code Challenge July-2020 on Leetcode.
 
 ### Week-5
 
-- [29-](../Problems/)
-- [30-](../Problems/)
-- [31-](../Problems/)
+- [29-Best Time to Buy and Sell Stock with Cooldown](../Problems/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java)
+- [30-Word Break II](../Problems/140_Word_Break_II.java)
+- [31-Climbing Stairs](../Problems/070_Climbing_Stairs.java)
