@@ -1,5 +1,5 @@
-// https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/
 // 190. Reverse Bits
+// https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/
 
 // 18ms 
 public class Solution {
@@ -26,6 +26,19 @@ public class Solution {
         while (pow > 0) {
             res = res << 1;
             res = res | (n & 1);
+            n = n >> 1;
+            pow--;
+        }
+        return res;
+    }
+}
+
+public class Solution {
+    // you need treat n as an unsigned value
+    public int reverseBits(int n) {
+        int res = 0, pow = 31;
+        while (pow >= 0) {
+            res += (n & 1) << pow;
             n = n >> 1;
             pow--;
         }
