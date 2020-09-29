@@ -28,6 +28,37 @@ class Solution {
     }
 }
 
+// 11 ms Fast forwarding
+class Solution {
+    public int[] prisonAfterNDays(int[] cells, int N) {
+        int[] res = new int[cells.length];
+        HashMap<String, Integer> hm = new HashMap<>();
+        boolean cycle = false;
+        while (N > 0) {
+            if (!cycle) {
+                if (hm.containsKey(Arrays.toString(cells))) {
+                    int repIdx = hm.get(Arrays.toString(cells));
+                    int cycleLength = repIdx - N;
+                    N %= cycleLength;
+                    cycle = true;
+                } else {
+                    hm.put(Arrays.toString(cells), N);
+                }
+            }
+
+            if (N > 0) {
+                N--;
+                int[] nextCell = new int[cells.length];
+                for (int i = 1; i < cells.length - 1; i++) {
+                    nextCell[i] = cells[i - 1] == cells[i + 1] ? 1 : 0;
+                }
+                cells = nextCell.clone();
+            }
+        }
+        return cells;
+    }
+}
+
 // 4ms
 class Solution {
     public int[] prisonAfterNDays(int[] cells, int N) {
@@ -35,9 +66,10 @@ class Solution {
             return new int[0];
         Map<String, Integer> seen = new HashMap<>();
         while (N > 0) {
-            int[] nextDay = new int[cells.length];
+
             String cellString = Arrays.toString(cells);
             seen.put(cellString, N--);
+            int[] nextDay = new int[cells.length];
             for (int i = 1; i < cells.length - 1; i++) {
                 if (cells[i - 1] == cells[i + 1])
                     nextDay[i] = 1;
